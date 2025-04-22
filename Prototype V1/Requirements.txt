@@ -1,0 +1,5 @@
+Open-CV, NumPy, pyautogui, mediapipe
+
+---
+
+You can easily install these dependencies via pip install command.
