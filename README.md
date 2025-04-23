@@ -10,3 +10,10 @@ This is a prototype project, it has a lot flaws and is not as accurate as it sho
 I'll be more than happy to get any kind of contribution, improvements or ideas, thanks in advance.
 
 ---
+
+
+## License
+
+This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).  
+© 2025 Elshan Akbarzadeh
+
